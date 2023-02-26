@@ -1,0 +1,34 @@
+#header{
+background-color: navy;
+text-align: center;
+color: maroon;
+font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+text-shadow: 1px 1px white;
+padding: 5px;
+font-size: large;
+font-weight: 300;
+
+}
+nav img{
+    width: 50px;
+    height: 50px;
+}
+#footer{
+    background-color: navy;
+    text-align: center;
+    color: whitesmoke;   
+    bottom:0;
+    width: 100%;
+    position: fixed;
+}
+                 
+
+#imgffn{
+    width: 100px;
+    height: 100px;
+text-align: right;
+
+}
+body{
+    text-align: center;
+}
